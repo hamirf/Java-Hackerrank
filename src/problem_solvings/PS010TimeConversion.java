@@ -24,6 +24,8 @@ public class PS010TimeConversion {
 			        output = output.replace(output.substring(0, 2), "00");
 			    }
 			}
+			
+			System.out.println(output);
 		}
 		
 	}
